@@ -5,6 +5,11 @@ const Footer = () => {
     <section>
       <footer class="text-gray-900 body-font bg-BgColor text-TextColor">
         <div class="container px-5 py-24 mx-auto">
+          {/* <div
+            class="absolute inset-0 z-[-1] rounded-[10px] bg-gradient-to-br from-[#2340D5] via-[#C82E53] to-[#7F2FCF] dark:bg-gradient-to-r dark:from-[#C82E53] dark:via-[#C82E53_41.03%] dark:to-[#7F2FCF_99.08%] dark:opacity-65 dark:blur-[100px]"
+            style="transform: translate3d(0px, 0px, 0px);"
+          ></div> */}
+          <div className="absolute inset-0 z-[-1] rounded-[10px] bg-gradient-to-br from-[#2340D5] via-[#C82E53] to-[#7F2FCF] dark:bg-gradient-to-r dark:from-[#C82E53] dark:via-[#C82E53_41.03%] dark:to-[#7F2FCF_99.08%] dark:opacity-65 dark:blur-[100px]"></div>
           <div class="flex flex-wrap md:text-left text-center order-first">
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
